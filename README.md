@@ -24,3 +24,4 @@ About me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=grey)](https://instagram.com/viktor__denisov_?igshid=OGQ5ZDc2ODk2ZA==)
 [![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&color=grey)](https://vk.com/id187817192)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
