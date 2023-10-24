@@ -13,6 +13,12 @@ About me
 ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&color=grey)
 ![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&color=grey)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&color=grey)
+![Yacc](https://img.shields.io/badge/Yacc-yellow?style=for-the-badge&logo=gnu&color=grey)
+![Lex](https://img.shields.io/badge/Lex-yellow?style=for-the-badge&logo=gnu&color=grey)
+![GCC](https://img.shields.io/badge/GCC-yellow?style=for-the-badge&logo=gnu&color=grey)
+
+
+
 
 
 
