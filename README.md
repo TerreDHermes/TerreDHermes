@@ -19,12 +19,8 @@ About me
 ![GCC](https://img.shields.io/badge/GCC-yellow?style=for-the-badge&logo=gnu&color=grey)
 ![SageMath](https://img.shields.io/badge/SageMath-yellow?style=for-the-badge&logo=sagemath&color=grey)
 
+### Follow Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&color=grey)](https://t.me/the_condor_1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=grey)](https://instagram.com/viktor__denisov_?igshid=OGQ5ZDc2ODk2ZA==)
+[![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&color=grey)](https://vk.com/id187817192)
 
-
-
-
-
-
-
-
-Follow Me
