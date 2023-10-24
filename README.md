@@ -7,6 +7,7 @@ About me
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&color=grey)
 ![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&color=grey)
 ![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&color=grey)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&color=grey)
 
 ### Tools
 ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=mysql&color=grey)
@@ -16,6 +17,10 @@ About me
 ![Yacc](https://img.shields.io/badge/Yacc-yellow?style=for-the-badge&logo=gnu&color=grey)
 ![Lex](https://img.shields.io/badge/Lex-yellow?style=for-the-badge&logo=gnu&color=grey)
 ![GCC](https://img.shields.io/badge/GCC-yellow?style=for-the-badge&logo=gnu&color=grey)
+![SageMath](https://img.shields.io/badge/SageMath-yellow?style=for-the-badge&logo=sagemath&color=grey)
+
+
+
 
 
 
