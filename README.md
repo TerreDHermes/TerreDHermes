@@ -2,6 +2,8 @@
 
 About me
 
-Languages and Tools
+### Languages and Tools
+![Golang](https://img.shields.io/badge/Golang-white?style=for-the-badge&logo=go&color=black)
+![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=mysql&color=black)
 
 Follow Me
