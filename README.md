@@ -1,6 +1,7 @@
 ![Header](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/логотип.png)
 
-I see my future in Golang development
+### About Me
+I see my future in Golang development.
 
 ### Languages
 ![Golang](https://img.shields.io/badge/Golang-white?style=for-the-badge&logo=go&color=grey)
