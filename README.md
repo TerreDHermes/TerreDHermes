@@ -1,26 +1,3 @@
-<div align="center">
-  <p>
-    <span id="typewriter-text"></span>
-  </p>
-</div>
-
-<script>
-  const text = "Hi there!";
-  const textElement = document.getElementById("typewriter-text");
-  let i = 0;
-
-  function typeWriter() {
-    if (i < text.length) {
-      textElement.innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 100); // Интервал между символами (в миллисекундах)
-    }
-  }
-
-  typeWriter(); // Запустить функцию печати при загрузке страницы
-</script>
-
-
 ![Header](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/логотип.png)
 
 ### About Me
