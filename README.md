@@ -1,4 +1,4 @@
-![Header](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/логотип.png)
+![Header](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/intro%20(1).gif)
 
 ### About Me
 I see my future in Golang development.
