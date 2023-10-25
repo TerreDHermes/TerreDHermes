@@ -19,13 +19,13 @@ I see my future in Golang development
 ![GCC](https://img.shields.io/badge/GCC-yellow?style=for-the-badge&logo=gnu&color=grey)
 ![SageMath](https://img.shields.io/badge/SageMath-yellow?style=for-the-badge&logo=sagemath&color=grey)
 
-![gifа](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/1trC.gif)
-
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&color=grey)](https://t.me/the_condor_1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=grey)](https://instagram.com/viktor__denisov_?igshid=OGQ5ZDc2ODk2ZA==)
 [![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&color=grey)](https://vk.com/id187817192)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerreDHermes)](https://github.com/anuraghazra/github-readme-stats)
+
+![gifа](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/1trC.gif)
 
 
