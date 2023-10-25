@@ -1,4 +1,7 @@
-![Header](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/intro%20(1).gif)
+<div align="center">
+  <img src="https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/intro%20(1).gif" alt="Описание изображения" style="width: 70%;">
+</div>
+
 
 ### About Me
 I see my future in Golang development.
