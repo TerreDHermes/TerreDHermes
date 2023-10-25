@@ -27,6 +27,6 @@ I see my future in Golang development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerreDHermes)](https://github.com/anuraghazra/github-readme-stats)
 
-![gifа](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/animatedmicrochip2-1.gif)
+![gifа](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/город-рис.gif)
 
 
